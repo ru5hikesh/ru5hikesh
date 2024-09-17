@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rushikesh Kolge
 
-## About Me
+## About Me:
 I am a Computer Engineering student at D. Y. Patil College of Engineering and Innovation, Pune (DYPCOEI), I am strongly interested in full-stack development. I am passionate about learning and implementing new technologies to build innovative projects.
 
 🔭 I’m currently working on improving my skills in full-stack development.                                                                                                         
