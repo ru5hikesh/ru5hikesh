@@ -7,6 +7,6 @@ strongly interested in full-stack development. I am passionate about learning an
 🔭 I’m currently working on improving my skills in full-stack development.                                                                                                         
 🌱 I’m currently learning advanced Data Structures and Algorithms.                                                                                                                                                                                                             
 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.                                                                                                         
-📫 How to reach me: ru5hikeshkolge10@gmail.com
+📫 How to reach me :  ru5hikeshkolge10@gmail.com
 
 
