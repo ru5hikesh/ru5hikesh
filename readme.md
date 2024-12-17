@@ -1,6 +1,8 @@
+ [![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh)
+
 # Hi there 👋, I'm Rushikesh Kolge 
 
-## About Me: [![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh)
+## About Me:
 
 strongly interested in full-stack development. I am passionate about learning and implementing new technologies to build innovative projects.
 
