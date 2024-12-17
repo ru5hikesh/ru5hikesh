@@ -4,6 +4,13 @@
 
 strongly interested in full-stack development. I am passionate about learning and implementing new technologies to build innovative projects.
 
+## 🔭 Current Endeavors
+- I'm currently a full-stack developer, and my journey involves both building and learning Here's what I'm currently focused on:
+
+- I'm engaged in exciting full-stack projects.
+
+- I'm an early riser, always driven and constantly learning in the tech world.
+
 🔭 I’m currently working on improving my skills in full-stack development.                                                                                                         
 🌱 I’m currently learning advanced Data Structures and Algorithms.                                                                                                                                                                                                             
 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.                                                                                                         
