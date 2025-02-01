@@ -43,16 +43,14 @@ or You can just Ping me on X or linkedin
   <code><img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
-
-  
   <br></br>
-  <code><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
-   <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Laravel-FF2C20?style=for-the-badge&logo=Laravel&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=Django&logoColor=white"></code>
-
+  <code><img height="30" src="https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=Django&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
+  
 - ### Backend:
 
   <code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
