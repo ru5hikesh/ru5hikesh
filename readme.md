@@ -13,8 +13,15 @@ strongly interested in full-stack development. I am passionate about learning an
 
 - I'm an early riser, always driven and constantly learning in the tech world.
                                                                                                                                                                                                        
-- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.                                                                                                         
+- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.                                                                                                       
 
-📫 How to reach me :  ru5hikeshkolge10@gmail.com
+## freelancer👯:
+ full-stack developer specializing in the MERN stack with expertise in Node.js, Express, React. I build scalable backends ( I have a team for that ) , clean frontends, and ensure seamless integrations.
+ Whether you need authentication, optimized APIs, or a smooth frontend experience, I’ve got you covered.
+
+I charge based on your project requirements, so hit me up, and let's build something awesome together!"
+
+📫 How to reach me for :  ru5hikeshkolge10@gmail.com 
+or You can Ping me on X or linkedin 
 
 
