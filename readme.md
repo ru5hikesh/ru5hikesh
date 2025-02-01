@@ -22,6 +22,6 @@ strongly interested in full-stack development. I am passionate about learning an
 I charge based on your project requirements, so hit me up, and let's build something awesome together!"
 
 📫 How to reach me for :  ru5hikeshkolge10@gmail.com 
-or You can Ping me on X or linkedin 
+or You can just Ping me on X or linkedin 
 
 
