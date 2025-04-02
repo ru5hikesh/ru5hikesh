@@ -1,4 +1,4 @@
- [![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh)
+[![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh)
 
 # Hi there 👋, I'm Rushikesh Kolge 
 
