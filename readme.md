@@ -1,4 +1,4 @@
-[![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh) 
 
 # Hi there 👋, I'm Rushikesh Kolge 
 
@@ -17,7 +17,7 @@ My strengths lie in crafting intuitive user interfaces, writing clean and mainta
                                                                                                                                                                                                        
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.                                                                                                       
 
-## freelancer👯:
+## freelancer👯: WebDev & ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  full-stack developer specializing in the MERN stack with expertise in AWS. I build scalable backends, clean frontends, and ensure seamless integrations.
  Whether you need authentication, optimized APIs, or a smooth frontend experience, I’ve got you covered.
 
