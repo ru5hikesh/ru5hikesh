@@ -8,7 +8,7 @@ I'm Rushikesh Kolge, a passionate full-stack web developer from Aurangabad, Maha
 
 My strengths lie in crafting intuitive user interfaces, writing clean and maintainable code, and embracing modern design principles. I'm deeply committed to continuous learning and staying ahead in the ever-evolving tech landscape: whether it’s mastering the latest frontend frameworks, optimizing backend performance, or leveraging cloud-native services to deliver production-ready solutions.
 
-## 🔭 Current Endeavors
+## 🔭 Current Endeavors;
 - I'm currently a full-stack developer, and my journey involves both building and learning Here's what I'm currently focused on:
 
 - I'm engaged in exciting full-stack projects.
