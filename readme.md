@@ -6,16 +6,7 @@
 
 I'm Rushikesh Kolge, a passionate full-stack web developer from Aurangabad, Maharashtra, India. I specialize in transforming ideas into seamless digital experiences that are both visually striking and highly functional. With a strong foundation in modern web development and expertise in AWS cloud solutions, I build scalable, secure, and efficient applications from the ground up.
 
-My strengths lie in crafting intuitive user interfaces, writing clean and maintainable code, and embracing modern design principles. I'm deeply committed to continuous learning and staying ahead in the ever-evolving tech landscape: whether it’s mastering the latest frontend frameworks, optimizing backend performance, or leveraging cloud-native services to deliver production-ready solutions.
-
-## 🔭 Current Endeavors;
-- I'm currently a full-stack developer, and my journey involves both building and learning Here's what I'm currently focused on:
-
-- I'm engaged in exciting full-stack projects.
-
-- I'm an early riser, always driven and constantly learning in the tech world.
-                                                                                                                                                                                                       
-- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.                                                                                                       
+My strengths lie in crafting intuitive user interfaces, writing clean and maintainable code, and embracing modern design principles. I'm deeply committed to continuous learning and staying ahead in the ever-evolving tech landscape: whether it’s mastering the latest frontend frameworks, optimizing backend performance, or leveraging cloud-native services to deliver production-ready solutions.                                                                                                  
 
 ## freelancer👯: WebDev & ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  full-stack developer specializing in the MERN stack with expertise in AWS. I build scalable backends, clean frontends, and ensure seamless integrations.
