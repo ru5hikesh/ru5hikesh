@@ -8,8 +8,8 @@ I'm Rushikesh Kolge, a passionate full-stack web developer from Aurangabad, Maha
 
 My strengths lie in crafting intuitive user interfaces, writing clean and maintainable code, and embracing modern design principles. I'm deeply committed to continuous learning and staying ahead in the ever-evolving tech landscape: whether it’s mastering the latest frontend frameworks, optimizing backend performance, or leveraging cloud-native services to deliver production-ready solutions.                                                                                                  
 
-## freelancer👯: WebDev & ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
- full-stack developer specializing in the MERN stack with expertise in AWS. I build scalable backends, clean frontends, and ensure seamless integrations.
+## freelancer👯: WebDev & AWS
+ full-stack developer specializing in the MERN (Next.js) stack with expertise in AWS. I build scalable backends, clean frontends, and ensure seamless integrations.
  Whether you need authentication, optimized APIs, or a smooth frontend experience, I’ve got you covered.
 
 I charge based on your project requirements, so hit me up, and let's build something awesome together!"
