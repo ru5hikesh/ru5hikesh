@@ -17,3 +17,7 @@ I charge based on your project requirements, so hit me up, and let's build somet
 📫 How to reach me for :  ru5hikeshkolge10@gmail.com 
 or You can just Ping me on X or linkedin 
 <br></br>
+
+## Deployed Projects
+- Chatbot with a large Knowledgebase - main.d36myt9107u7xb.amplifyapp.com
+- OTT platform - UGC and more - main.d309gzbvqbfim2.amplifyapp.com
