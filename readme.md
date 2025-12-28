@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Rushikesh Kolge - ru5hikesh.me
+# Hi there 👋, I'm Rushikesh Kolge - Portfolio
+
+🌐 **Portfolio:** [https://ru5hikesh.me](https://ru5hikesh.me)
 
 [![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh)
 
@@ -14,5 +16,6 @@ Full-stack developer specializing in the MERN (Next.js) stack with expertise in 
 
 I charge based on your project requirements — hit me up and let's build something awesome together!
 
-📫 How to reach me: rushikesh.kolge3824@gmail.com
-Or you can ping me on X or LinkedIn.
+📫 **How to reach me:**
+Email: [rushikesh.kolge3824@gmail.com](mailto:rushikesh.kolge3824@gmail.com)
+You can also connect with me on X or LinkedIn.
