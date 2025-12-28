@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rushikesh Kolge 
+# Hi there 👋, I'm Rushikesh Kolge - ru5hikesh.me
 
 [![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh)
 
@@ -16,8 +16,3 @@ I charge based on your project requirements — hit me up and let's build someth
 
 📫 How to reach me: rushikesh.kolge3824@gmail.com
 Or you can ping me on X or LinkedIn.
-
-## Deployed Projects
-
-- [Chatbot with large Knowledge base (Live)](https://main.d36myt9107u7xb.amplifyapp.com) — Conversational chatbot backed by a large, searchable knowledgebase. Ideal for documentation/helpdesk use-cases. Tech: Next.js, AWS Amplify (hosting & backend), (MERN components). Status: Live demo.
-- [OTT Platform — UGC and more (Live)](https://main.d309gzbvqbfim2.amplifyapp.com) — OTT-style platform supporting user-generated content, streaming, and basic account features. Tech: Next.js, Node/MongoDB, AWS Amplify. Status: Live demo.
