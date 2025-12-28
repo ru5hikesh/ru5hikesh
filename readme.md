@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rushikesh Kolge - Portfolio
 
-🌐 **Portfolio:** [https://ru5hikesh.me](https://ru5hikesh.me)
+🌐 [**Portfolio:**](https://ru5hikesh.me)
 
 [![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh)
 
