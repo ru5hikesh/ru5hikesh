@@ -17,5 +17,5 @@ Full-stack developer specializing in the MERN (Next.js) stack with expertise in 
 I charge based on your project requirements — hit me up and let's build something awesome together!
 
 📫 **How to reach me:**
-Email: [rushikesh.kolge3824@gmail.com](mailto:rushikesh.kolge3824@gmail.com)
+[rushikesh.kolge3824@gmail.com](mailto:rushikesh.kolge3824@gmail.com)
 You can also connect with me on X or LinkedIn.
