@@ -1,10 +1,8 @@
-# Hi there 👋, I'm Rushikesh Kolge
+#I'm Rushikesh Kolge
 
-🌐 [**Portfolio**](https://ru5hikesh.me)
+[**Portfolio**](https://ru5hikesh.me)
 
 [![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh)
-
-## About Me
 
 I'm Rushikesh Kolge, a passionate full-stack web developer from Aurangabad, Maharashtra, India. I specialize in transforming ideas into seamless digital experiences that are both visually striking and user-friendly.
 
