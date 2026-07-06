@@ -1,6 +1,6 @@
 # I'm Rushikesh Kolge 
 
-[**Portfolio**](https://ru5hikesh.me)
+[**Portfolio**](https://ru5hikesh.me) 
 
 [![Rushikesh Kolge profile views](https://u8views.com/api/v1/github/profiles/124882090/views/total-count.svg)](https://u8views.com/github/ru5hikesh)
 
@@ -13,7 +13,7 @@ Generative AI, LLM Applications, RAG & AI Agents
 AWS Cloud (Bedrock, Lambda, API Gateway, Cognito, S3, DynamoDB)
 Full-Stack Development with Next.js, React, Node.js & FastAPI
 Vector Databases, PostgreSQL, Docker & REST APIs
-Scalable, production-ready AI and cloud solutions
+Scalable, production-ready AI and cloud solutions.
 
 I Do solve real world problems!!!
 
