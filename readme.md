@@ -18,4 +18,4 @@ Scalable, production-ready AI and cloud solutions.
 I Do solve real world problems!!!
 
 📫 **Reach me**
-[rushikesh.kolge3824@gmail.com](mailto:rushikesh.kolge3824@gmail.com)
+[rushikesh.kolge3824@gmail.com](mailto:rushikesh.kolge3824@gmail.com).   
